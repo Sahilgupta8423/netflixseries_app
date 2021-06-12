@@ -5,7 +5,7 @@
     background-color: #ffff;
   }
   
-  .heading_style {
+  .heading_style, .search{
     padding: 30px 0;
     text-align: center;
     font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;

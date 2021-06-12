@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App";
 import "./index.css";
+
 ReactDOM.render(
   <>
   <h1 className='heading_style'>List of Top 5 Netflix Series</h1>
